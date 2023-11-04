@@ -2,8 +2,10 @@
 Agenda personal en java
 
 # Creacion de base de datos y tablas:
- * CREATE DATABASE agenda;
- * CREATE TABLE `Contactos` (
+ * Creacion de la base de datos
+   CREATE DATABASE agenda;
+ * Creacion de la tabla
+   CREATE TABLE `Contactos` (
     `agendaId` int(11) NOT NULL AUTO_INCREMENT,
     `dni` int(11) NOT NULL,
     `nombre` varchar(100) DEFAULT NULL,
