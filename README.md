@@ -1,6 +1,6 @@
 # agenda_java_desktop
 Agenda personal en java
-
+![Demo](./img/agendaExample.png)
 # Creacion de base de datos y tablas:
  * Creacion de la base de datos
 ~~~
