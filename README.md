@@ -18,4 +18,4 @@ Agenda personal en java
     `fech_nac` varchar(100) DEFAULT NULL,
     PRIMARY KEY (`agendaId`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-~~~
+
